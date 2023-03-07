@@ -1,2 +1,2 @@
 # googlClone
-Google Clone
+Google Clone. www.patika.dev
